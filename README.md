@@ -3,17 +3,15 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 
 ## Meet the Developers
 
-### cobblesteve01
+### x8r
 - Founder of Classboard
 - Current Owner
 - Head Developer
 - Does most of the development
 - Classboard Support guy
-- Has a YouTube channel
-- Knows HTML, CSS, and JavaScript
+- Knows HTML, CSS, Javascript, Typescript, and is learning Astro
 - Main bug fixer
 - Made the forms
-- yea :D
 
 ### SyntaxError52
 - Co-Founder of Classboard
@@ -23,7 +21,6 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Knows HTML, CSS, JavaScript, Godot, and Python
 - Bug fixes sometimes
 - Helped make forms
-- Joined November 16, 2023 (One day after launch)
 
 ### Bahabryra
 - Senior Developer
@@ -35,7 +32,6 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Knows HTML, CSS, Basic JavaScript, and Python
 - Bug fixes sometimes
 - Joined February 2024
-  ### bahabryra signing out have a bahabryra day
 - name pronuncation (ba he breh ra)
 
 ### SprintingSnail
@@ -48,7 +44,6 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Scratch account with over 100 followers ⬇ 
 - https://scratch.mit.edu/users/SprintingSnail/
 - That's about it
-  # byeeeeeee
 - Joined September 2024
 
 ### Edwardshs
@@ -58,5 +53,3 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 
 
 ## Send a pull request or join the team [here](https://docs.google.com/forms/d/e/1FAIpQLSd5DOQOenGS5Z1AhjtbocqTurH0XRIVe6oNo8_u9IRyKah8zQ/viewform) if you wanna help
-#### Dont read the commits, okay!
-### byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
